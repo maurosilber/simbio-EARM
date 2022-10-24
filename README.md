@@ -1,15 +1,15 @@
-# simbio-<name>
+# simbio-earm
 
 ## Installation
 
 ```
-pip install simbio-<name>
+pip install simbio-earm
 ```
 
 ## Usage
 
 ```python
-from simbio.models.<name> import <model>
+from simbio.models.earm import <model>
 from simbio.simulator import Simulator
 
 t = range(100)
